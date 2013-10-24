@@ -78,7 +78,9 @@
 </div>
 <div class="section " id="section1">
 	<h1><img src="img/img_logo_gochat.png" alt="img_logo_gochat" width="108" height="70"></h1>
-	<p>imagen</p>
+	<p>
+		<img src="img/img_gochat_ui.png" alt="img_gochat_ui">
+	</p>
 	<p>
 		<h2>ui designer</h2>
 		<ul>
@@ -116,10 +118,11 @@
 	<h1><img src="img/img_logo_novecientos.png" alt="img_logo_novecientos" width="203" height="129"></h1>
 	<p>imagen</p>
 	<p>
-		<h2>cargo</h2>
+		<h2>UI & UX designer</h2>
 		<ul>
-			<li>cosas que hacia</li>
-			<li>cosas que hacia</li>
+			<li>UI & UX</li>
+			<li>resources</li>
+			<li>marketing</li>
 		</ul>
 	</p>
 </div>
@@ -128,10 +131,9 @@
 	<h1><img src="img/img_logo_destinia.png" alt="img_logo_destinia" width="278" height="82"></h1>
 	<p>imagen</p>
 	<p>
-		<h2>cargo</h2>
+		<h2>concept ui designer</h2>
 		<ul>
-			<li>cosas que hacia</li>
-			<li>cosas que hacia</li>
+			<li>concept app for destinia.com</li>
 		</ul>
 	</p>
 </div>
@@ -140,10 +142,10 @@
 	<h1><img src="img/img_logo_monomusic.png" alt="img_logo_monomusic" width="394" height="110"></h1>
 	<p>imagen</p>
 	<p>
-		<h2>cargo</h2>
+		<h2>designer</h2>
 		<ul>
-			<li>cosas que hacia</li>
-			<li>cosas que hacia</li>
+			<li>planning</li>
+			<li>resources</li>
 		</ul>
 	</p>
 </div>
@@ -152,10 +154,12 @@
 	<h1><img src="img/img_logo_residuos_electronicos.png" alt="img_logo_residuos_electronicos" width="375" height="21"></h1>
 	<p>imagen</p>
 	<p>
-		<h2>cargo</h2>
+		<h2>marketing manager</h2>
 		<ul>
-			<li>cosas que hacia</li>
-			<li>cosas que hacia</li>
+			<li>brand manager</li>
+			<li>marketing</li>
+			<li>web</li>
+			<li>design</li>
 		</ul>
 	</p>
 </div>
