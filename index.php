@@ -75,6 +75,8 @@
 			</a>
 		</span>
 	</p>
+	<p class="scroll">scroll to continue</p>
+	<img class src="img/ic_scroll.png" alt="ic_scroll" width="24" height="10">
 </div>
 <div class="section " id="section1">
 	<h1><img src="img/img_logo_gochat.png" alt="img_logo_gochat" width="108" height="70"></h1>
@@ -90,7 +92,9 @@
 </div>
 <div class="section " id="section2">
 	<h1><img src="img/img_logo_touristeye.png" alt="img_logo_touristeye" width="268" height="50"></h1>
-	<p>imagen</p>
+	<p>
+		<img src="img/img_touristeye_desktop.png" alt="img_touristeye_desktop">
+	</p>
 	<p>
 		<h2>ui designer</h2>
 		<ul>
@@ -102,21 +106,24 @@
 
 <div class="section " id="section3">
 	<h1><img src="img/img_logo_tactilapp.png" alt="img_logo_tactilapp" width="258" height="78"></h1>
-	<p>imagen</p>
+	<p>
+		<img src="img/img_tactilapp_desktop.png" alt="img_tactilapp_desktop">
+	</p>
 	<p>
 		<h2>entrepreneur</h2>
 		<ul>
 			<li>brand manager</li>
 			<li>UI & UX</li>
 			<li>marketing</li>
-			<li>html/css</li>
 		</ul>
 	</p>
 </div>
 
 <div class="section " id="section4">
 	<h1><img src="img/img_logo_novecientos.png" alt="img_logo_novecientos" width="203" height="129"></h1>
-	<p>imagen</p>
+	<p>
+		<img src="img/img_novecientos_app.png" alt="img_novecientos_app">
+	</p>
 	<p>
 		<h2>UI & UX designer</h2>
 		<ul>
@@ -129,7 +136,9 @@
 
 <div class="section " id="section5">
 	<h1><img src="img/img_logo_destinia.png" alt="img_logo_destinia" width="278" height="82"></h1>
-	<p>imagen</p>
+	<p>
+		
+	</p>
 	<p>
 		<h2>concept ui designer</h2>
 		<ul>
